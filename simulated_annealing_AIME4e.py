@@ -1,5 +1,6 @@
 
-#Frankencode from search4e.ipynb
+#Frankencode from search4e.ipynb and various othr sources 
+
 
 import matplotlib.pyplot as plt
 from matplotlib import animation
